@@ -23,6 +23,7 @@ public class Lab006 {
 
         System.out.println("your avg is-->  "+avg);
         System.out.println("your avg is-->  "+avg);
+        System.out.println("your avg is-->  "+avg);
 
     }
 }
